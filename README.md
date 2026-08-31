@@ -2,10 +2,7 @@
 🌟 Passionate about Data Analytics field,Data Visualization.
 💻 Currently exploring Data Analytics and Real-Time Analytics Projects.
 📊 Learning: Python | SQL | Power BI | Tabluae | Exel .
-📫 Reach me at: ## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/akshitha-p-141911294
-- 📧 Email: akahu@gmail.com
+📫 Reach me at: ## Linkdin
 😄 Pronouns: She/Her
 
 🚀 Projects
