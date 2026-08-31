@@ -1,9 +1,8 @@
 🎓 I’m a Computer Science  Engineering student at University BDT, Davanagere.
 🌟 Passionate about Data Analytics field,Data Visualization.
 💻 Currently exploring Data Analytics and Real-Time Analytics Projects.
-📊 Learning: Python | SQL | Power BI | Tabluae | Exel .
-📫 Reach me at: ## Linkdin
-😄 Pronouns: She/Her
+📊 Learning: Python | SQL | Power BI | Tabluae | Exel 
+😄 Pronouns: She/Her.
 
 🚀 Projects
 
