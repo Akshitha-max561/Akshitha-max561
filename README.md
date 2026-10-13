@@ -13,3 +13,15 @@ Bike Sales Analysis – Excel-Analyzed bike sales data using Excel to identify c
 🛠️ Skills
 
 Languages: Python, HTML, CSS,SQL. Tools & Frameworks: Power BI, Tabluae. Technologies: Data Visualization.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshitha-max561&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitha-max561&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshitha-max561&theme=tokyonight)
