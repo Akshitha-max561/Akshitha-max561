@@ -64,38 +64,9 @@ Technologies: Data Visualization, Data Cleaning.
 
 ---
 
-<h2 align="center">🛠️ Data Analytics Tools & Technologies</h2>
+## 🛠️ Data Analytics Tools
 
-<table align="center">
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-<b>Python</b>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
-<b>SQL / MySQL</b>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25"/><br>
-<b>Power BI</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25"/><br>
-<b>Tableau</b>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="25"/><br>
-<b>Excel</b>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=pandas" width="45"/><br>
-<b>Pandas</b>
-</td>
-</tr>
-</table>
+![Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitha-max561&layout=compact&theme=tokyonight&custom_title=Data%20Analytics%20Tools)
 
 # 🏆 GitHub Trophies
 
