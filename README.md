@@ -24,7 +24,11 @@ Computer Science Engineering Student | Aspiring Data Analyst
 
 
 
-🎓 I’m a Computer Science Engineering student at University BDT, Davanagere. 🌟 Passionate about Data Analytics field,Data Visualization. 💻 Currently exploring Data Analytics and Real-Time Analytics Projects. 📊 Learning: Python | SQL | Power BI | Tabluae | Exel 😄 Pronouns: She/Her.
+🎓 I’m a Computer Science Engineering student at University BDT, Davanagere. 
+🌟 Passionate about Data Analytics field,Data Visualization. 
+💻 Currently exploring Data Analytics and Real-Time Analytics Projects. 
+📊 Learning: Python | SQL | Power BI | Tabluae | Exel 
+😄 Pronouns: She/Her.
 
 🚀 Projects
 
@@ -38,7 +42,9 @@ Bike Sales Analysis – Excel-Analyzed bike sales data using Excel to identify c
 
 🛠️ Skills
 
-Languages: Python, HTML, CSS,SQL. Tools & Frameworks: Power BI, Tabluae. Technologies: Data Visualization.
+Languages: Python, HTML, CSS, SQL. 
+Tools & Frameworks: Power BI, Tabluae. 
+Technologies: Data Visualization, Data Cleaning.
 
 ## 📊 GitHub Stats
 
