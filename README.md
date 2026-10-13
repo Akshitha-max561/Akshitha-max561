@@ -36,11 +36,11 @@ Computer Science Engineering Student | Aspiring Data Analyst
 
 🚀 Projects
 
-HR-Analytics-Dashboard-PowerBI Public - Interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, demographics, departments, salary, job roles, job satisfaction, age, and experience.
+HR Analytics Dashboard PowerBI  - Interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, demographics, departments, salary, job roles, job satisfaction, age, and experience.
 
-E-Commerce-Sales-Analytics-Dashboard-Power-BI  - Interactive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI to analyze sales, gross profit, profit margin, orders, units sold, product performance, category performance, and sales trends.
+E Commerce Sales Analytics Dashboard Power-BI  - Interactive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI to analyze sales, gross profit, profit margin, orders, units sold, product performance, category performance, and sales trends.
 
-World Layoffs – SQL Data Analysis-Analyzed global layoffs data using SQL to identify trends across companies, industries, countries, and years.
+World Layoffs – SQL Data Analysis - Analyzed global layoffs data using SQL to identify trends across companies, industries, countries, and years.
 
 Video Game Sales Analysis – Tableau-Created an interactive Tableau dashboard to analyze video game sales by genre, platform, publisher, and region.
 
