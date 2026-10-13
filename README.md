@@ -64,9 +64,6 @@ Technologies: Data Visualization, Data Cleaning.
 
 ---
 
-## 🛠️ Data Analytics Tools
-
-![Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitha-max561&layout=compact&theme=tokyonight&custom_title=Data%20Analytics%20Tools)
 
 # 🏆 GitHub Trophies
 
