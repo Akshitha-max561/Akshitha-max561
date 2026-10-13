@@ -54,58 +54,27 @@ Technologies: Data Visualization, Data Cleaning.
 
 ---
 
-## 📊 Data Analytics Projects
+# 📊 GitHub Analytics
 
-### 🧑‍💼 HR Analytics Dashboard | Power BI
-- Analyzed employee data to understand attrition and workforce trends.
-- Tools: Power BI, Power Query, DAX
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshitha-max561&show_icons=true&theme=tokyonight)
 
-### 🛒 E-Commerce Sales Analytics Dashboard | Power BI
-- Analyzed sales, profit, product performance, and regional trends.
-- Tools: Power BI, DAX, Excel
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitha-max561&layout=compact&theme=tokyonight)
 
-### 🌍 World Layoffs Data Analysis | SQL
-- Analyzed global layoffs data to identify trends across companies, industries, and countries.
-- Tools: SQL, MySQL
-
-### 🎮 Video Game Sales Analysis | Tableau
-- Analyzed video game sales by genre, platform, publisher, and region.
-- Tools: Tableau, Data Visualization
-
-### 🚲 Bike Sales Analysis | Excel
-- Analyzed customer and sales trends using Excel dashboards.
-- Tools: Microsoft Excel
-
-### 🧹 Netflix Data Cleaning | Python
-- Cleaned and prepared Netflix dataset for analysis.
-- Tools: Python, Pandas
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshitha-max561&theme=tokyonight)
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Data Analytics Tools & Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+# 🏆 GitHub Trophies
 
-- Statistics and Probability
-- Data Analysis using Python and Pandas
-- SQL for Data Analytics
-- Machine Learning fundamentals
-- Data Visualization and Dashboard Design
-
----
-
-## 🎯 Career Goal
-
-Aspiring Data Analyst passionate about transforming raw data
-into meaningful insights using data analytics and visualization tools.
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshitha-max561&theme=tokyonight&row=1&column=6)
