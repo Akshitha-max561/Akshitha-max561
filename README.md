@@ -1,3 +1,29 @@
+<h1 align="center">Hi 👋, I'm Akshitha P.</h1>
+
+<h3 align="center">
+Computer Science Engineering Student | Aspiring Data Analyst
+</h3>
+
+<p align="center">
+  <a href="mailto:akshiakshitha9686@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Akshitha-max561">
+    <img src="https://img.shields.io/badge/GitHub-Akshitha--max561-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshitha-p-141911294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshitha-max561&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+
+
 🎓 I’m a Computer Science Engineering student at University BDT, Davanagere. 🌟 Passionate about Data Analytics field,Data Visualization. 💻 Currently exploring Data Analytics and Real-Time Analytics Projects. 📊 Learning: Python | SQL | Power BI | Tabluae | Exel 😄 Pronouns: She/Her.
 
 🚀 Projects
