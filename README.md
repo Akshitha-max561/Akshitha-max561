@@ -22,12 +22,16 @@ Computer Science Engineering Student | Aspiring Data Analyst
 
 ---
 
+🚀 About Me
 
+🎓 I’m a Computer Science Engineering student at University BDT, Davanagere.
 
-🎓 I’m a Computer Science Engineering student at University BDT, Davanagere. 
-🌟 Passionate about Data Analytics field,Data Visualization. 
-💻 Currently exploring Data Analytics and Real-Time Analytics Projects. 
+🌟 Passionate about Data Analytics field,Data Visualization.
+
+💻 Currently exploring Data Analytics and Real-Time Analytics Projects.
+
 📊 Learning: Python | SQL | Power BI | Tabluae | Exel 
+
 😄 Pronouns: She/Her.
 
 🚀 Projects
